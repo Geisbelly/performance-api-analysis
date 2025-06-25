@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Criar Item,1359,113,107,177,190,207,10,279,"0,000%","22,70677","4,46","5,50"
+Listar Itens,1356,89,96,118,168,191,6,214,"0,000%","22,71699","164,90","2,71"
+TOTAL,2715,101,101,171,182,202,6,279,"0,000%","45,36341","168,92","8,20"

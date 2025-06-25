@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Criar Item,1359,113,10,279,"46,50","0,000%","22,70677","4,46","5,50","201,1"
+Listar Itens,1356,89,6,214,"39,35","0,000%","22,71699","164,90","2,71","7433,1"
+TOTAL,2715,101,6,279,"44,76","0,000%","45,36341","168,92","8,20","3813,1"
